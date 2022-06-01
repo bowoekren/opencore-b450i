@@ -11,7 +11,7 @@
 - Ethernet: [SmallTreeIntel82576.kext](https://github.com/khronokernel/SmallTree-I211-AT-patch)
 - Wifi (Intel 9250): [itlwm.kext](https://github.com/OpenIntelWireless/itlwm) and connect using [Heliport](https://github.com/OpenIntelWireless/HeliPort)
 - USB 2.0, 3.0: mapping with [USBMap](https://github.com/corpnewt/USBMap)
-- Bluetooth: Works out of the box, no kext installed.
+- Bluetooth: Works out of the box, no kext installed. but somehow it can't be disabled
 - Power, Sleep, Awake
 
 
